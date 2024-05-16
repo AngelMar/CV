@@ -1,1 +1,3 @@
-fiftyone 
+fiftyone
+ultralytics
+tensorboard
